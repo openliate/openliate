@@ -1,7 +1,7 @@
 # OpenLiate — India's Backend as an Agent Platform
 
 > **Open Source Backend as an Agent (BaaA).**  
-> **Class is an Agent. Agent is an API. That's your Backend.**  
+> **Class is an Agent. Agent is a LAPI. That's your Backend.**  
 > **Backed by the @SarvamAI Startup Program (Bengaluru, India)**
 
 ---
@@ -84,7 +84,7 @@ AOP is a universal paradigm for any language that supports a `class`:
 
 ---
 
-### The 100-Day Journey (Day 0 ➔ Day 100)
+### The 100-Day Journey (Day 0 -> Day 100)
 
 Building in public every single day from Bengaluru, India.  
 **10 PM Build. 10 AM Ship.**
